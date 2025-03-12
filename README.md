@@ -5,6 +5,7 @@
 
 - [Overview](#overview)
 - [Setup Guide](#setup-guide)
+- https://devpost.com/software/the-daily-grind
 
 ## Overview 
 
