@@ -1,11 +1,16 @@
 # The Daily Grind
 ### Contributors: Anh Vo, Nazia Edroos, Nikita P, Heidi Lantz
 
+<p align="center">
+  <img width="100%" alt="thumbnail" src="https://github.com/user-attachments/assets/3dd90708-f6b1-462f-bf9e-10bc69d31c16"> <br>
+  <img width="100%" alt="demogif" src="https://github.com/user-attachments/assets/47d45c74-d3ec-4735-8967-1a89e939904b">
+</p>
+
 ##### Outline
 
 - [Overview](#overview)
 - [Setup Guide](#setup-guide)
-- https://devpost.com/software/the-daily-grind
+- [Devpost](https://devpost.com/software/the-daily-grind)
 
 ## Overview 
 
